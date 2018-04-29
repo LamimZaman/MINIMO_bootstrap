@@ -1,0 +1,42 @@
+body{font-family: 'Playfair Display', serif;
+     color: #8C8C8C; }
+.navbar-brand{}
+.navbar-brand {font-family: 'Inconsolata', monospace;
+            font-size: 40px;
+            letter-spacing: 5px;}
+
+header{margin-top: 20px;}
+.bodytitle{margin-left: 120px;}
+.gal_img h4{margin-top: 30px;}
+.gal_img h1{letter-spacing: 1px;
+            word-spacing: 3px;}
+.gallery{margin-right: 50px;}
+.newsletter{min-height: 300px;
+            background-color: #F3F3F3;}
+.letter-form form button{
+    position: absolute;
+    background-color: transparent;
+    border: none;
+    
+    
+}
+.letter-form form input{width: 70%;
+                        height: 40px;
+                        border-bottom: 1px solid black;
+                        
+    background: transparent !important;
+    font-size: 24px;
+}
+.load_more_btn {background-color: transparent;
+                text-transform: capitalize;
+                border: 2px solid gray;
+                font-size: 21px;
+               padding: 15px 30px;} 
+.leftinfo ul,.rightinfo ul{list-style: none;}
+
+.leftinfo ul li a,.rightinfo ul li a{text-decoration: none;
+                                    font-size: 20px;
+                                  padding: 15px;
+    color: #474747;}
+.footer{background-color: #F3F3F3;}
+
